@@ -1,3 +1,7 @@
-# Tutorial
+# Tuturial Header
 learning
-sometext here
+start using git for the first time
+
+create folder
+create files
+
